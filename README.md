@@ -1,4 +1,4 @@
-# Taller Html y CSS Niñas Pro
+# Taller Git y Github
 
 Parte 1 del taller
 
